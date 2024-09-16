@@ -10,3 +10,5 @@ https://huggingface.co/PogusTheWhisper/SurgiCare/tree/main
 ![alt text](wound_classify_train/SurgiCare-V1-fast.png?raw=true)
 ### MobileNetV3Small
 ![alt text](wound_classify_train/SurgiCare-V1-mini.png?raw=true)
+
+a
