@@ -1,11 +1,20 @@
 # Surgicare
 
-## Try the demo here.
-[our demo](https://surgicare-demo.streamlit.app/)
+> Surgicare (Surgical + Care) 
+![](https://imgur.com/a/uteaCTW)
 
+SurgiCare is an AI system designed to support post-surgery patient recovery. In this repository, we focus on a wound classification model trained on an open-source dataset. Our objective is to improve the accuracy of wound detection and guide patients in managing their wound recovery efficiently.
+
+- **Online Demo**: [https://surgicare-demo.streamlit.app/](https://surgicare-demo.streamlit.app/)
+- Wound dataset: [https://www.kaggle.com/datasets/ibrahimfateen/wound-classification](https://www.kaggle.com/datasets/ibrahimfateen/wound-classification))
+
+- Model Hub: [https://huggingface.co/PogusTheWhisper/SurgiCare](https://huggingface.co/PogusTheWhisper/SurgiCare)
+- Pretrained Models:
+    * Surgicare-V1-best: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras)
+    * Surgicare-V1-fast: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras)
+    * Surgicare-V1-mini: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras)
 ## Download models here.
 [model hub](https://huggingface.co/PogusTheWhisper/SurgiCare)
-
 
 ## Result of training!!
 ### Efficientnet B3
