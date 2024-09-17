@@ -1,7 +1,7 @@
 # Surgicare
 
 > Surgicare (Surgical + Care) 
-![](imgur.com/a/uteaCTW)
+![](https://i.imgur.com/nOi95Cj.png)
 
 SurgiCare is an AI system designed to support post-surgery patient recovery. In this repository, we focus on a wound classification model trained on an open-source dataset. Our objective is to improve the accuracy of wound detection and guide patients in managing their wound recovery efficiently.
 
