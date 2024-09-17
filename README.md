@@ -8,7 +8,7 @@ https://huggingface.co/PogusTheWhisper/SurgiCare/tree/main
 
 ## Result of training!!
 ### Efficientnet B3
-accuracy: 0.9062 Approximately 11 seconds per image.
+Accuracy: 0.9062 Approximately 11 seconds per image.
 ![alt text](wound_classify_train/SurgiCare-V1-best.png?raw=true)
 
 ### MobileNetV3Large
