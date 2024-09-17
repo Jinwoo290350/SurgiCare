@@ -13,8 +13,6 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
     * Surgicare-V1-best: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras)
     * Surgicare-V1-fast: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras)
     * Surgicare-V1-mini: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras)
-## Download models here.
-[model hub](https://huggingface.co/PogusTheWhisper/SurgiCare)
 
 ## Result of training!!
 ### Efficientnet B3
