@@ -1,7 +1,7 @@
 # Surgicare
 
 ## Try the demo here.
-[Our demo](https://surgicare-demo.streamlit.app/)
+[our demo](https://surgicare-demo.streamlit.app/)
 
 ## Download models here.
 [model hub](https://huggingface.co/PogusTheWhisper/SurgiCare)
