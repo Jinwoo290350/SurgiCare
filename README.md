@@ -23,33 +23,34 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
 ### MobileNetV3Large
 * Accuracy: 0.6164
   
-![alt text](wound_classify_train/MobileNetV3Large-standard.png?raw=true)
+<img src="wound_classify_train/MobileNetV3Large-standard.png?raw=true" width="800">
 
 ### MobileNetV3Small
 * Accuracy: 0.6199
   
-![alt text](wound_classify_train/MobileNetV3Small-standard.png?raw=true)
+<img src="wound_classify_train/MobileNetV3Small-standard.png?raw=true" width="800">
 
 ## Result of our training!!
 ### EfficientnetV2 B3
 * Accuracy: 0.9127
 * Training Details: I used EfficientNet-B3 to train for 50 epochs, monitoring the validation loss.
+  
+<img src="wound_classify_train/SurgiCare-V1-large-turbo.png?raw=true" width="800">
 
-![alt text](wound_classify_train/SurgiCare-V1-large-turbo.png?raw=true)
 ### Efficientnet B3
 * Accuracy: 0.9062
 * Training Details: I used EfficientNet-B3 to train for 25 epochs, monitoring the validation loss.
 
-![alt text](wound_classify_train/SurgiCare-V1-large.png?raw=true)
+<img src="wound_classify_train/SurgiCare-V1-large.png?raw=true" width="800">
 
 ### MobileNetV3Large
 * Accuracy: 0.7969
 * Training Details: I used MobileNetV3Large to train for 50 epochs, monitoring the validation loss.
-  
-![alt text](wound_classify_train/SurgiCare-V1-medium.png?raw=true)
+
+<img src="wound_classify_train/SurgiCare-V1-medium.png?raw=true" width="800">
 
 ### MobileNetV3Small
 * Accuracy: 0.7812
 * Training Details: I used MobileNetV3Small to train for 50 epochs, monitoring the validation loss.
-  
-![alt text](wound_classify_train/SurgiCare-V1-small.png?raw=true)
+
+<img src="wound_classify_train/SurgiCare-V1-small.png?raw=true" width="800">
