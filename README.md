@@ -18,7 +18,7 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
 ### Efficientnet B3
 * Accuracy: 0.6884
 
-<img src="wound_classify_train/EfficientNetV2B3-standard.png?raw=true" width="500">
+<img src="wound_classify_train/EfficientNetV2B3-standard.png?raw=true" width="800">
 
 ### MobileNetV3Large
 * Accuracy: 0.6164
