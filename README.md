@@ -14,6 +14,8 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
     * Surgicare-V1-fast: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-medium.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-medium.keras)
     * Surgicare-V1-mini: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-small.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-small.keras)
 
+---
+
 ## Result of standard model
 ### Efficientnet B3
 * Accuracy: 0.6884
@@ -29,6 +31,8 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
 * Accuracy: 0.6199
   
 <img src="wound_classify_train/MobileNetV3Small-standard.png?raw=true" width="800">
+
+---
 
 ## Result of our training!!
 ### EfficientnetV2 B3
