@@ -10,25 +10,30 @@ SurgiCare is an AI system designed to support post-surgery patient recovery. In 
 
 - Model Hub: [https://huggingface.co/PogusTheWhisper/SurgiCare](https://huggingface.co/PogusTheWhisper/SurgiCare)
 - Pretrained Models:
-    * Surgicare-V1-best: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-best.keras)
-    * Surgicare-V1-fast: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-fast-best.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-fast-best.keras)
-    * Surgicare-V1-mini: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-mini-best-model.keras)
+    * Surgicare-V1-best: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-large.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-large.keras)
+    * Surgicare-V1-fast: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-medium.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-medium.keras)
+    * Surgicare-V1-mini: [https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-small.keras](https://huggingface.co/PogusTheWhisper/SurgiCare/resolve/main/SurgiCare-V1-small.keras)
 
 ## Result of training!!
+### EfficientnetV2 B3
+* Accuracy: 0.9127
+* I used EfficientNet-B3 to train for 50 epochs, monitoring the validation loss.
+
+![alt text](wound_classify_train/SurgiCare-V1-large-turbo.png?raw=true)
 ### Efficientnet B3
-* Accuracy: 0.9062 Approximately 11 seconds per image.
+* Accuracy: 0.9062
 * I used EfficientNet-B3 to train for 25 epochs, monitoring the validation loss.
 
-![alt text](wound_classify_train/SurgiCare-V1-best.png?raw=true)
+![alt text](wound_classify_train/SurgiCare-V1-large.png?raw=true)
 
 ### MobileNetV3Large
-* Accuracy: 0.7969 Approximately 5 seconds per image.
+* Accuracy: 0.7969
 * I used MobileNetV3Large to train for 50 epochs, monitoring the validation loss.
   
-![alt text](wound_classify_train/SurgiCare-V1-fast.png?raw=true)
+![alt text](wound_classify_train/SurgiCare-V1-medium.png?raw=true)
 
 ### MobileNetV3Small
-* Accuracy: 0.7812 Approximately 4 seconds per image.
+* Accuracy: 0.7812
 * I used MobileNetV3Small to train for 50 epochs, monitoring the validation loss.
   
-![alt text](wound_classify_train/SurgiCare-V1-mini.png?raw=true)
+![alt text](wound_classify_train/SurgiCare-V1-small.png?raw=true)
